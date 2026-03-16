@@ -1,7 +1,7 @@
 # Glyphs-for-matrix
 So I made Glyph Lights for the Glyph Matrix as Nothing removed it with the Phone 4a Pro and Phone (3) Series. These are just animations for the Phone (3) and only contains the Phone (3a) and 3a Pro's Glyphs.
 
-# Planning For Nothing
+# Planning For Glyph4Matrix
 - [x] Make a base animation with the Glyph Matrix editor
 - [x] Create a base Glyph Interface Animation and upload it
 - [ ] Make more variations of it.
