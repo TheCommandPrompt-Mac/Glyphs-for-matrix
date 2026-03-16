@@ -1,2 +1,11 @@
 # Glyphs-for-matrix
-Made glyph lights for the glyph matrix as many people miss the glyph lights. These are only glyph toys which animates for now but I will try to integrate actually information into it.  The phone (1) and the phone (2) glyph lights won't come as they cant fit in the glyphs but you will have the phone 2a, phone 3a and the phone 4a only animation. 
+So I made Glyph Lights for the Glyph Matrix as Nothing removed it with the Phone 4a Pro and Phone (3) Series. These are just animations for the Phone (3) and only contains the Phone (3a) and 3a Pro's Glyphs.
+
+# Planning For Nothing
+[x] Make a base animation with the Glyph Matrix editor
+[x] Create a base Glyph Interface Animation and upload it
+[] Make more variations of it.
+[] Create an app so that we can control the Glyph Interface and enable and disable features.
+[] Coding the Integration between Glyph Toys and the app
+[] Testing the App and the Glyph Interface
+[] Publishing the Application in both the google play store and the nothing community.
